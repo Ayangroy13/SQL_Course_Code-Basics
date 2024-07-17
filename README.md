@@ -32,6 +32,7 @@ I’m a Mechanical Engineer who transitioned to a full-time Data & Analytics Man
 ### Course Work
 ### Day 1:
 • SELECT, FROM and WHERE are the basic SQL functions means all columns. Using '' after the SELECT query will select all columns of a database With the help of the USE function, you can indicate the query to use a particular database, especially when there are multiple databases
+
 • The COUNT function will provide the numerical count of rows
 • The DISTINCT function will help you see the unique values present in a given column '%' is a wild card search
 • Use the LIKE function and '%' to filter the rows based on a text value
